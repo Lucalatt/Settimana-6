@@ -1,0 +1,25 @@
+package it.lucal.app;
+
+import java.util.Random;
+
+import it.lucal.app.models.ProcessoDiControllo;
+import it.lucal.app.models.Proxy;
+import it.lucal.app.models.Sonda;
+
+public class App {
+
+	public static void main(String[] args) {
+		Random r = new Random();
+		
+		Sonda s1 = new Sonda(1, r.nextLong(), r.nextLong(), r.nextInt(11));
+		Sonda s2 = new Sonda(2, r.nextLong(), r.nextLong(), r.nextInt(11));
+		Sonda s3 = new Sonda(3, r.nextLong(), r.nextLong(), r.nextInt(11));
+		Sonda s4 = new Sonda(4, r.nextLong(), r.nextLong(), r.nextInt(11));
+		Sonda s5 = new Sonda(5, r.nextLong(), r.nextLong(), r.nextInt(11));
+		
+		ProcessoDiControllo p = new Proxy();
+		p.comunicazioneAllarme(null);
+
+	}
+
+}

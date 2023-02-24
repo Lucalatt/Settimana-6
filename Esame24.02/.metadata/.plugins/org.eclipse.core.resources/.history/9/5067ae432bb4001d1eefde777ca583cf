@@ -1,0 +1,5 @@
+package it.lucal.app.models;
+
+public class SistemaElettronico {
+
+}

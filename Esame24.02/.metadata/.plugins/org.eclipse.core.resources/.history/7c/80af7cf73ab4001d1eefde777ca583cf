@@ -1,0 +1,18 @@
+package it.lucal.app.models;
+
+import java.util.List;
+
+public class CentroControllo {
+
+	
+	
+	public void comunicazione(Sonda sonda) {
+		
+			String url = String.format("http://host/alarm?=idsonda=%d&lat=%f&lon=%F&smokelevel=%d", sonda.getId(), sonda.getLatitudine(), sonda.getLongitudine(), sonda.getLivelloFumo());
+			System.out.println("Allareme scattato alla sonda " + url);
+			System.out.println("Allareme scattato alla sonda " + url);
+	
+	}
+
+	
+}

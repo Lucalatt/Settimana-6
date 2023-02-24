@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Users\lucal\Desktop\Esame24.02\.metadata\.plugins\org.eclipse.jdt.core
+3568546516.index
+1790811476.index
+1865797976.index
+2128577836.index
+587256945.index
+2845710567.index
+3331723139.index
+772922828.index
+1738393737.index
+2112717958.index
+551451125.index
+69161028.index
+3655333762.index
+3987081322.index
+968328316.index
+2662651792.index
+2272089755.index
+661018762.index
+2754750346.index
+1582278072.index
+730128469.index

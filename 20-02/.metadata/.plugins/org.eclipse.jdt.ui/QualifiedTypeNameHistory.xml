@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.MockMvc"/>
+    <fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.request.MockMvcRequestBuilders"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.result.MockMvcResultMatchers"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.web.server.LocalServerPort"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.web.client.TestRestTemplate"/>
+    <fullyQualifiedTypeName name="it.lucal.app.dao.EdificioService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="it.lucal.app.entity.Edificio"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.riccardodegni.W5L4.W5L4.entities.User"/>
+    <fullyQualifiedTypeName name="com.riccardodegni.W5L4.W5L4.entities.Role"/>
+    <fullyQualifiedTypeName name="it.lucal.app.entity.Role"/>
+    <fullyQualifiedTypeName name="it.lucal.app.dao.UserDetailsImplService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.password.PasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+    <fullyQualifiedTypeName name="it.lucal.app.entity.Ruolo"/>
+    <fullyQualifiedTypeName name="it.lucal.app.entity.Utente"/>
+    <fullyQualifiedTypeName name="it.lucal.app.config.UserDetailsImpl"/>
+    <fullyQualifiedTypeName name="it.lucal.app.config.StringAttributeConverter"/>
+    <fullyQualifiedTypeName name="it.lucal.app.service.UserDetailsImplService"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="it.es.mattina.giorno1.security.entities.User"/>
+    <fullyQualifiedTypeName name="it.es.mattina.giorno1.security.repo.UserRepo"/>
+</qualifiedTypeNameHistroy>

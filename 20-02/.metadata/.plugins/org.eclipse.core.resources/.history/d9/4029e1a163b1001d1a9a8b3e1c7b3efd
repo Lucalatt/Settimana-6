@@ -1,0 +1,32 @@
+package it.lucal.app.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.riccardodegni.W5L4.W5L4.entities.Role;
+
+import it.lucal.app.entity.Ruolo;
+import it.lucal.app.repository.RuoloRepository;
+
+@Service
+public class RuoloService {
+
+	@Autowired
+	RuoloRepository rr;
+	
+	public Ruolo insertRuolo(Ruolo r) {
+        return rr.save(r);
+    }
+	
+	public Ruolo saveRole(Ruolo obj) {
+		return rr.save(obj);
+	}
+	
+	public Optional<Ruolo> getRoleById(int id) {
+		return rr.findById(id);
+	}
+	
+
+}

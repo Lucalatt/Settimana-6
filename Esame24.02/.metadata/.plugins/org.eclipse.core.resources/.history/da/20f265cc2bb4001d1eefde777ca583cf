@@ -1,0 +1,9 @@
+package it.lucal.app.models;
+
+public class ProcessoControllo {
+	
+	public void comunicazioneAllarme(Sonda sonda) {
+		
+	}
+
+}
